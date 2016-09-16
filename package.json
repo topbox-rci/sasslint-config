@@ -1,5 +1,5 @@
 {
-    "name": "@topbox-rci/sasslint-config-troyblank",
+    "name": "@topbox-rci/sasslint-config",
     "version": "0.1.0",
     "description": "Shared sass rules.",
     "repository": {
