@@ -10,7 +10,7 @@ This is a central location to keep sass linting shared amongst all of the projec
 In your project configure any flavor of sasslint to use the contained configure file:
 
 ```
-configFile: 'node_modules/@troyblank/sasslint-config-troyblank/.sass-lint.yml'
+configFile: 'node_modules/@topbox-rci/sasslint-config/.sass-lint.yml'
 ```
 
 ### Test
