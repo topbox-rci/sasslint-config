@@ -13,6 +13,6 @@
         "test": "sass-lint -c ./.sass-lint.yml ./test/test.scss -v -q"
     },
     "devDependencies": {
-        "sass-lint": "1.10.2"
+        "sass-lint": "1.12.1"
     }
 }
